@@ -31,7 +31,10 @@
     "pipenv@latest",
     "pipx@latest",
     "poetry@latest",
-    "nodejs@24"
+    "nodejs@24",
+    "uv@latest",
+    "bat@latest",
+    "python@latest"
   ],
   "shell": {
     "init_hook": [
