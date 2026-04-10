@@ -34,7 +34,8 @@
     "nodejs@24",
     "uv@latest",
     "bat@latest",
-    "python@latest"
+    "python@latest",
+    "dotter@latest"
   ],
   "shell": {
     "init_hook": [

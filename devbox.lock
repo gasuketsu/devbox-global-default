@@ -193,6 +193,54 @@
         }
       }
     },
+    "dotter@latest": {
+      "last_modified": "2026-03-21T07:29:51Z",
+      "resolved": "github:NixOS/nixpkgs/09061f748ee21f68a089cd5d91ec1859cd93d0be#dotter",
+      "source": "devbox-search",
+      "version": "0.13.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/w0lb5l0bvw0wzyjki6fbx65g6c5a54qg-dotter-0.13.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/w0lb5l0bvw0wzyjki6fbx65g6c5a54qg-dotter-0.13.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ap5yysb3ibiihz5mivqlbhcqdi5qdifd-dotter-0.13.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ap5yysb3ibiihz5mivqlbhcqdi5qdifd-dotter-0.13.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0rl94236mfgqwi10r4bwzxi1561qd1hw-dotter-0.13.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0rl94236mfgqwi10r4bwzxi1561qd1hw-dotter-0.13.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/15vmakfy5lz9gfl745a3a4idldl12wi4-dotter-0.13.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/15vmakfy5lz9gfl745a3a4idldl12wi4-dotter-0.13.4"
+        }
+      }
+    },
     "fd@latest": {
       "last_modified": "2026-03-21T07:29:51Z",
       "resolved": "github:NixOS/nixpkgs/09061f748ee21f68a089cd5d91ec1859cd93d0be#fd",
